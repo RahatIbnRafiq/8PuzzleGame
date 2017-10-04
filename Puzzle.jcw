@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>8Puzzle</label>
+	</settings>
+	<users>
+		<user>
+			<path>8Puzzle.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>8Puzzle.jcp</path>
+		</project>
+	</projects>
+</workspace>
